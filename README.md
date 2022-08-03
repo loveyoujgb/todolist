@@ -2,6 +2,12 @@
 
 ---
 
+![image](https://user-images.githubusercontent.com/107628613/182594167-27117c74-ed47-4911-9f07-7bfa37027a62.png)
+
+![image](https://user-images.githubusercontent.com/107628613/182594318-9b8d8fce-7ef3-4e45-af80-3737af72ed80.png)
+
+---
+
 ### 간략 소개
 
 - 계획된 일에 대해서 제목과 내용을 입력하여 사용하는 To-do-List입니다.
